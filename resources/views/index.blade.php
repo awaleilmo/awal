@@ -163,51 +163,42 @@
                         <span class=" wow bounceInDown animated" data-transition="5" data-wow-delay="5" style="width: auto; margin-left: 1em"> Awaludin Ramdani</span>
                         <i class="glyph-icon icon-angle-down"></i>
                     </a>
-                    <div class="dropdown-menu float-left">
+                    <div class="dropdown-menu float-left" style="margin-left: 10px">
                         <div class="box-sm">
                             <div class="login-box clearfix">
-                                <div class="user-img">
-                                    <a href="#" title="" class="change-img">Change photo</a>
-                                    <img src="../../assets/image-resources/gravatar.jpg" alt="">
+                                <div class="user-img" style="margin-top: 2em;">
+                                    <i  class="glyph-icon icon-linecons-user" style="font-size: 6em"></i>
                                 </div>
                                 <div class="user-info">
                             <span>
-                                Thomas Barnes
-                                <i>UX/UI developer</i>
+                                Awaludin Ramdani
+                                <i>Web developer</i>
                             </span>
-                                    <a href="#" title="Edit profile">Edit profile</a>
-                                    <a href="#" title="View notifications">View notifications</a>
                                 </div>
                             </div>
                             <div class="divider"></div>
                             <ul class="reset-ul mrg5B">
                                 <li>
                                     <a href="#">
-                                        <i class="glyph-icon float-right icon-caret-right"></i>
-                                        View login page example
+                                        Email: Awal.eilmo@gmail.com
 
                                     </a>
                                 </li>
                                 <li>
                                     <a href="#">
-                                        <i class="glyph-icon float-right icon-caret-right"></i>
-                                        View lockscreen example
+                                        Telp: 087879143297
 
                                     </a>
                                 </li>
                                 <li>
                                     <a href="#">
-                                        <i class="glyph-icon float-right icon-caret-right"></i>
-                                        View account details
+                                        WA: 087876913818
 
                                     </a>
                                 </li>
                             </ul>
                             <div class="pad5A button-pane button-pane-alt text-center">
-                                <a href="#" class="btn display-block font-normal btn-danger">
-                                    <i class="glyph-icon icon-power-off"></i>
-                                    Logout
-                                </a>
+
                             </div>
                         </div>
                     </div>
